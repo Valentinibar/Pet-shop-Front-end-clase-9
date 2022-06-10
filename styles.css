@@ -1,0 +1,45 @@
+p.footer {
+    background-color: #b8751d;
+}
+footer section {
+    background-color: #301205;
+}
+footer section p {
+    font-weight: bold;
+}
+head {
+    background-color: #301205; 
+}
+h1 {
+    text-align: center;
+}
+header {
+    background-color: #b8751d;
+}
+#banner {
+    display: flex;
+    background-image: url(img/Banner.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 500px;
+
+}
+div.header {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 22px;
+    color: white;
+    
+}
+* {
+    box-sizing: border-box;
+}
+section.churrasquitos {
+    display: flex;
+    justify-content: center;
+}
+nav {
+    background-color: black;
+    color: white;
+}
